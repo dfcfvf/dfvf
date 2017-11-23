@@ -1,4 +1,4 @@
-package com.vf.vm.start;
+package com.ef.vm.start;
 
 import android.content.Context;
 import android.content.Intent;
@@ -10,21 +10,19 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.lody.virtual.R;
-import com.vf.vm.abs.ui.VActivity;
-import com.vf.vm.abs.ui.VUiKit;
-import com.vf.vm.start.models.PackageAppData;
-import com.vf.vm.start.repo.PackageAppDataStorage;
-import com.vf.vm.widgets.EatBeansView;
+import com.ef.vm.abs.ui.VActivity;
+import com.ef.vm.abs.ui.VUiKit;
+import com.ef.vm.start.models.PackageAppData;
+import com.ef.vm.start.repo.PackageAppDataStorage;
+import com.ef.vm.widgets.EatBeansView;
 import com.lody.virtual.client.core.VirtualCore;
 import com.lody.virtual.client.ipc.VActivityManager;
-
 
 /**
  * @author Lody
  */
 
 public class LoadingActivity extends VActivity {
-
     private static final String PKG_NAME_ARGUMENT = "MODEL_ARGUMENT";
     private static final String KEY_INTENT = "KEY_INTENT";
     private static final String KEY_USER = "KEY_USER";

@@ -1,4 +1,4 @@
-package com.vf.vm.utils;
+package com.ef.vm.utils;
 
 import android.content.Context;
 import android.content.pm.ApplicationInfo;
@@ -6,8 +6,8 @@ import android.content.pm.PackageInfo;
 import android.content.pm.PackageManager;
 import android.util.Log;
 
-import com.vf.vm.start.models.AppInfo;
-import com.vf.vm.start.models.AppInfoLite;
+import com.ef.vm.start.models.AppInfo;
+import com.ef.vm.start.models.AppInfoLite;
 import com.lody.virtual.client.core.InstallStrategy;
 import com.lody.virtual.client.core.VirtualCore;
 import com.lody.virtual.remote.InstallResult;

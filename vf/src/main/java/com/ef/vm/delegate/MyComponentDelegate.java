@@ -1,4 +1,4 @@
-package com.vf.vm.delegate;
+package com.ef.vm.delegate;
 
 import android.app.Activity;
 import android.app.Application;

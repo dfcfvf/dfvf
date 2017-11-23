@@ -1,4 +1,4 @@
-package com.vf.vm.delegate;
+package com.ef.vm.delegate;
 
 import com.lody.virtual.client.hook.delegate.PhoneInfoDelegate;
 

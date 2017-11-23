@@ -1,4 +1,4 @@
-package com.vf.vm.widgets;
+package com.ef.vm.widgets;
 
 import android.animation.Animator;
 import android.animation.AnimatorListenerAdapter;

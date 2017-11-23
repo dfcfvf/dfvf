@@ -1,4 +1,4 @@
-package com.vf.vm.start.models;
+package com.ef.vm.start.models;
 
 import android.content.Context;
 import android.content.pm.ApplicationInfo;
@@ -10,7 +10,7 @@ import com.lody.virtual.remote.InstalledAppInfo;
 /**
  * @author Lody
  */
-public class PackageAppData implements com.vf.vm.start.models.AppData {
+public class PackageAppData implements com.ef.vm.start.models.AppData {
 
     public String packageName;
     public String name;

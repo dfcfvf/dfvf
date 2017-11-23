@@ -1,4 +1,4 @@
-package com.vf.vm.delegate;
+package com.ef.vm.delegate;
 
 import android.annotation.TargetApi;
 import android.app.ActivityManager;

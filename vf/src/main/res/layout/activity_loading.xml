@@ -52,7 +52,7 @@
         android:background="#F8F8F8"
         android:visibility="gone">
 
-        <com.vf.vm.widgets.EatBeansView
+        <com.ef.vm.widgets.EatBeansView
             android:id="@+id/loading_anim"
             android:layout_width="match_parent"
             android:layout_height="30dp" />

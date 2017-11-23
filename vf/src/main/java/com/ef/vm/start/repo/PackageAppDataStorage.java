@@ -1,10 +1,10 @@
-package com.vf.vm.start.repo;
+package com.ef.vm.start.repo;
 
 import android.content.Context;
 
-import com.vf.vm.abs.Callback;
-import com.vf.vm.abs.ui.VUiKit;
-import com.vf.vm.start.models.PackageAppData;
+import com.ef.vm.abs.Callback;
+import com.ef.vm.abs.ui.VUiKit;
+import com.ef.vm.start.models.PackageAppData;
 import com.lody.virtual.client.core.VirtualCore;
 import com.lody.virtual.remote.InstalledAppInfo;
 

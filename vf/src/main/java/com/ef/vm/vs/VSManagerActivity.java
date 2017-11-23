@@ -1,7 +1,7 @@
-package com.vf.vm.vs;
+package com.ef.vm.vs;
 
 
-import com.vf.vm.abs.ui.VActivity;
+import com.ef.vm.abs.ui.VActivity;
 
 /**
  * @author Lody

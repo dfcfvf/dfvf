@@ -1,4 +1,4 @@
-package com.vf.vm.start.models;
+package com.ef.vm.start.models;
 
 import android.graphics.drawable.Drawable;
 
